@@ -1,0 +1,12 @@
+E:/Development/Learning/Pointers/cmake-build-debug/CMakeFiles/Pointers.dir
+E:/Development/Learning/Pointers/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/Development/Learning/Pointers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/Development/Learning/Pointers/cmake-build-debug/DynamicMemoryAllocation/CMakeFiles/DynamicMemoryAllocation.dir
+E:/Development/Learning/Pointers/cmake-build-debug/DynamicMemoryAllocation/CMakeFiles/edit_cache.dir
+E:/Development/Learning/Pointers/cmake-build-debug/DynamicMemoryAllocation/CMakeFiles/rebuild_cache.dir
+E:/Development/Learning/Pointers/cmake-build-debug/PointersLab/CMakeFiles/PointersLab.dir
+E:/Development/Learning/Pointers/cmake-build-debug/PointersLab/CMakeFiles/edit_cache.dir
+E:/Development/Learning/Pointers/cmake-build-debug/PointersLab/CMakeFiles/rebuild_cache.dir
+E:/Development/Learning/Pointers/cmake-build-debug/Utils/CMakeFiles/Utils.dir
+E:/Development/Learning/Pointers/cmake-build-debug/Utils/CMakeFiles/edit_cache.dir
+E:/Development/Learning/Pointers/cmake-build-debug/Utils/CMakeFiles/rebuild_cache.dir

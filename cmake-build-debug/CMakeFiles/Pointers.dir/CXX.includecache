@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Development/Learning/Pointers/Utils/math.h
+stdint-gcc.h
+-
+
+E:/Development/Learning/Pointers/main.cpp
+iostream
+-
+math.h
+E:/Development/Learning/Pointers/math.h
+Utils/math.h
+E:/Development/Learning/Pointers/Utils/math.h
+
